@@ -1402,7 +1402,7 @@ span.meta-date{
     line-height: 52px;
     margin-left: -36px;
     position: absolute;
-    top: 28px;
+    top: 40px;
     width: 80px;
 	border: 15px solid #ffffff;
 /* Prevent background color leak outs */
